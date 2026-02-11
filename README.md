@@ -70,12 +70,23 @@ I handle everything from backend logic to server infrastructure, deployment auto
 
 ## 📚 Real-World Experience
 
+Operating **multiple e-commerce platforms** handling thousands of daily transactions across **6+ production servers**.
+
 - Payment system failures & recovery
 - Spam / abuse mitigation at scale
 - DB optimization for large datasets
 - Cloudflare bot management
 - Multi-environment deployment pipelines
 - Zero-downtime migration
+
+---
+
+## 🚧 Currently Working On
+
+- AI-driven server monitoring & alerting
+- Payment reliability improvements
+- Internal automation tooling
+- Self-refining CI/CD pipelines
 
 ---
 
