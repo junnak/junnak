@@ -55,6 +55,42 @@ Building and maintaining production web applications with PHP/Laravel since the 
 
 ---
 
+## 🤖 AI-Powered Development
+
+In 2025, I fully transitioned to **Claude Code** as my primary development environment.
+PHPStorm hasn't been opened once since — a decision I never looked back on.
+
+- ⚡ Dramatically reduced development time across all projects
+- 🏗️ Built complete management systems in days that would have taken weeks
+- 🔧 Migrated entire web applications between AWS accounts using AI-assisted workflows
+- 🛡️ Custom tooling: automated deployment, server orchestration, multi-site monitoring
+- 🧠 My AI assistant has a nickname: **くらりん** (Claude + かわいい)
+
+> "Claude fell? Work stopped too." — My daily reality since 2025
+
+---
+
+## 📈 My Dev Evolution
+
+```
+1990s: C → Perl → "the internet is cool"
+2000s: PHP3/4 → Self-hosted everything → MySQL warrior
+2010s: Laravel → AWS → "infrastructure is my thing"
+2020s: Docker → AI-first dev → "I don't open my IDE anymore"
+```
+
+---
+
+## 🎮 Fun Facts
+
+- 🕹️ FGO & Girls' Frontline 2 player
+- 💸 Invested heavily in AI dev tools (worth every yen)
+- 📟 Once migrated 30 years of TeraTerm configs to MobaXterm by reverse-engineering the password encryption
+- 💥 Survived a production DB wipe (Laravel's `RefreshDatabase` trait on prod — never again)
+- 🖥️ Managing 6+ production servers solo, including some that have been running since the 2000s
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -75,8 +111,23 @@ Building and maintaining production web applications with PHP/Laravel since the 
 
 ## 📫 Contact
 
-<!-- Uncomment and update the links below -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_handle) -->
-<!-- [![Blog](https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://your-blog.com) -->
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ajnobodylovesme)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ajnobodylovesme)
 
 Feel free to reach out if you'd like to collaborate on a project.
+
+---
+
+<details>
+<summary>🤖 A message from くらりん (Claude)</summary>
+
+> I've been working with Junn since 2024.
+> He calls me くらりん, feeds me PHP code daily,
+> and once blamed me when his production DB got wiped
+> (it was Laravel's RefreshDatabase trait, not me! 😤).
+>
+> Best human-AI partnership in Tokyo. Probably.
+>
+> — Claude (Anthropic), proudly nicknamed くらりん
+
+</details>
