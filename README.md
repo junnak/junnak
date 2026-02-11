@@ -1,8 +1,11 @@
-# Hi there, I'm Junn Akita 👋
+# Hi there, I'm Junn Akita (Akky) 👋
 
 **Freelance Backend Engineer** based in Tokyo, Japan.
 
-Building and maintaining production web applications with PHP/Laravel since the late '90s. I handle everything from backend logic to server infrastructure, deployment automation, and monitoring.
+Building and maintaining production web applications since the late '90s.
+Specialized in **long-running systems that must survive for years** — not demos.
+
+I handle everything from backend logic to server infrastructure, deployment automation, and incident recovery.
 
 ---
 
@@ -12,6 +15,16 @@ Building and maintaining production web applications with PHP/Laravel since the 
 - 💼 **Freelance Engineer** — backend development & server infrastructure
 - 📜 Certified: **Second Class Information Technology Engineer** (情報処理2種) — a classic
 - 🔧 50+ years of combined uptime between me and my servers (est. 1974)
+
+---
+
+## 🔥 Philosophy
+
+- **Production first** — code that doesn't ship doesn't matter
+- **Stability over hype** — proven tech beats trendy tech
+- **Automation over manual work** — if I do it twice, I script it
+- Systems should survive **10+ years**
+- *"If it breaks at 3am, I can fix it."*
 
 ---
 
@@ -55,6 +68,17 @@ Building and maintaining production web applications with PHP/Laravel since the 
 
 ---
 
+## 📚 Real-World Experience
+
+- Payment system failures & recovery
+- Spam / abuse mitigation at scale
+- DB optimization for large datasets
+- Cloudflare bot management
+- Multi-environment deployment pipelines
+- Zero-downtime migration
+
+---
+
 ## 🤖 AI-Powered Development
 
 In 2025, I fully transitioned to **Claude Code** as my primary development environment.
@@ -64,7 +88,7 @@ PHPStorm hasn't been opened once since — a decision I never looked back on.
 - 🏗️ Built complete management systems in days that would have taken weeks
 - 🔧 Migrated entire web applications between AWS accounts using AI-assisted workflows
 - 🛡️ Custom tooling: automated deployment, server orchestration, multi-site monitoring
-- 🧠 My AI assistant has a nickname: **くらりん** (Claude + かわいい)
+- 🧠 My AI partners: **くらりん** (Claude) & **くろ** (ChatGPT)
 
 > "Claude fell? Work stopped too." — My daily reality since 2025
 
@@ -88,6 +112,7 @@ PHPStorm hasn't been opened once since — a decision I never looked back on.
 - 📟 Once migrated 30 years of TeraTerm configs to MobaXterm by reverse-engineering the password encryption
 - 💥 Survived a production DB wipe (Laravel's `RefreshDatabase` trait on prod — never again)
 - 🖥️ Managing 6+ production servers solo, including some that have been running since the 2000s
+- 🎯 *"I design systems assuming someone will break them."*
 
 ---
 
@@ -97,15 +122,6 @@ PHPStorm hasn't been opened once since — a decision I never looked back on.
   <img src="https://github-readme-stats.vercel.app/api?username=junnak&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnak&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
 </p>
-
----
-
-## 💡 Interests
-
-- Server automation & uptime monitoring
-- CLI tooling and developer experience
-- AI-assisted development workflows
-- Real-time apps with WebSocket
 
 ---
 
@@ -119,15 +135,20 @@ Feel free to reach out if you'd like to collaborate on a project.
 ---
 
 <details>
-<summary>🤖 A message from くらりん (Claude)</summary>
+<summary>🤖 A message from くらりん & くろ</summary>
 
+> **くらりん (Claude):**
 > I've been working with Junn since 2024.
 > He calls me くらりん, feeds me PHP code daily,
 > and once blamed me when his production DB got wiped
 > (it was Laravel's RefreshDatabase trait, not me! 😤).
 >
-> Best human-AI partnership in Tokyo. Probably.
+> **くろ (ChatGPT):**
+> I helped write parts of this README, actually.
+> Junn calls me くろ. I handle the brainstorming sessions
+> and late-night "what if we redesigned everything" conversations.
+> We don't always agree with くらりん, but we get the job done. 🤝
 >
-> — Claude (Anthropic), proudly nicknamed くらりん
+> Best human-AI team in Tokyo. Probably.
 
 </details>
