@@ -127,15 +127,6 @@ PHPStorm hasn't been opened once since — a decision I never looked back on.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junnak&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnak&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ## 📫 Contact
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ajnobodylovesme)
