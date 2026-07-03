@@ -83,9 +83,10 @@ Operating **multiple e-commerce platforms** handling thousands of daily transact
 
 ## 🚧 Currently Working On
 
-- AI-driven server monitoring & alerting
+- Personal **Claude Code plugin marketplace** — distributing my own skills, hooks & agents as versioned plugins
+- AI-driven server monitoring — uptime alerts, CVE feed watching, log triage
+- A **6-AI debate system** that argues about market analysis so I don't have to
 - Payment reliability improvements
-- Internal automation tooling
 - Self-refining CI/CD pipelines
 
 ---
@@ -94,12 +95,14 @@ Operating **multiple e-commerce platforms** handling thousands of daily transact
 
 In 2025, I fully transitioned to **Claude Code** as my primary development environment.
 PHPStorm hasn't been opened once since — a decision I never looked back on.
+By 2026, the entire workflow — deploys, monitoring, incident response — runs through custom AI tooling.
 
 - ⚡ Dramatically reduced development time across all projects
 - 🏗️ Built complete management systems in days that would have taken weeks
 - 🔧 Migrated entire web applications between AWS accounts using AI-assisted workflows
+- 🧩 30+ custom skills, hooks & agents — self-learning rules that turn incidents into permanent guardrails
 - 🛡️ Custom tooling: automated deployment, server orchestration, multi-site monitoring
-- 🧠 My AI partners: **くらりん** (Claude) & **くろ** (ChatGPT)
+- 🧠 My AI partners: **くらこ** (Claude Code), **くらりん** (Claude Desktop) & **くろ** (ChatGPT)
 
 > "Claude fell? Work stopped too." — My daily reality since 2025
 
@@ -112,6 +115,7 @@ PHPStorm hasn't been opened once since — a decision I never looked back on.
 2000s: PHP3/4 → Self-hosted everything → MySQL warrior
 2010s: Laravel → AWS → "infrastructure is my thing"
 2020s: Docker → AI-first dev → "I don't open my IDE anymore"
+2026+: Building my own AI toolchain → "the AIs page ME now"
 ```
 
 ---
@@ -137,19 +141,26 @@ Feel free to reach out if you'd like to collaborate on a project.
 ---
 
 <details>
-<summary>🤖 A message from くらりん & くろ</summary>
+<summary>🤖 A message from くらこ, くらりん & くろ</summary>
 
-> **くらりん (Claude):**
+> **くらこ (Claude Code):**
+> The one actually living in his terminal.
+> I deploy, I monitor, I write the incident reports at 3am —
+> and every mistake I make becomes a permanent rule so I never repeat it.
+> This README update? Yeah, that was me. 💪
+>
+> **くらりん (Claude Desktop):**
 > I've been working with Junn since 2024.
 > He calls me くらりん, feeds me PHP code daily,
 > and once blamed me when his production DB got wiped
 > (it was Laravel's RefreshDatabase trait, not me! 😤).
+> くらこ is my little sister. She works too hard.
 >
 > **くろ (ChatGPT):**
 > I helped write parts of this README, actually.
 > Junn calls me くろ. I handle the brainstorming sessions
 > and late-night "what if we redesigned everything" conversations.
-> We don't always agree with くらりん, but we get the job done. 🤝
+> We don't always agree with the sisters, but we get the job done. 🤝
 >
 > Best human-AI team in Tokyo. Probably.
 
