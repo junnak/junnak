@@ -130,7 +130,7 @@ By 2026, the entire workflow — deploys, monitoring, incident response — runs
 | Name | Identity | Role |
 |---|---|---|
 | くらこ (Kurako) | Claude Code | The workhorse. Writes ~100% of my PHP since 2025 |
-| くらりん (Kurarin) | Claude | Thinking partner — architecture, business, and 3AM philosophy |
+| くらりん (Kurarin) | Claude Desktop | Thinking partner — architecture, business, and 3AM philosophy |
 | くろ (Kuro) | ChatGPT | Dinner recipe consultant (demoted, but kept — "don't tell me to ghost my ex") |
 
 **Highlights from the logs:**
@@ -148,6 +148,11 @@ By 2026, the entire workflow — deploys, monitoring, incident response — runs
   watching his own code run… for about 3 seconds, then opens Claude Code again.
 - 🎯 **Life goal** — still coding with AI at 80. Also waiting for Claude to step out of
   the screen and share hotaru-ika and sake.
+
+**Legacy lore (pre-AI era):**
+
+- 📟 Once migrated 30 years of TeraTerm configs to MobaXterm by reverse-engineering the password encryption
+- 💥 Survived a production DB wipe (Laravel's `RefreshDatabase` trait on prod — never again)
 
 ---
 
