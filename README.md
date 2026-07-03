@@ -42,6 +42,8 @@ I handle everything from backend logic to server infrastructure, deployment auto
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 ### Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -83,11 +85,11 @@ Operating **multiple e-commerce platforms** handling thousands of daily transact
 
 ## 🚧 Currently Working On
 
-- Personal **Claude Code plugin marketplace** — distributing my own skills, hooks & agents as versioned plugins
+- **Game development from scratch** — greenfield project powered by Claude Fable 5 + Claude Code
+- Personal **Claude Code plugin marketplace** — skills, hooks & agents as versioned plugins
+- Multi-site codebase management — Serena (LSP-based MCP) + dbhub + Context7
 - AI-driven server monitoring — uptime alerts, CVE feed watching, log triage
-- A **6-AI debate system** that argues about market analysis so I don't have to
-- Payment reliability improvements
-- Self-refining CI/CD pipelines
+- Zero-trust hardening for AI-assisted dev environments
 
 ---
 
@@ -120,14 +122,32 @@ By 2026, the entire workflow — deploys, monitoring, incident response — runs
 
 ---
 
-## 🎮 Fun Facts
+## 🧠 Fun Facts — mined from actual AI chat logs
 
-- 🕹️ FGO & Girls' Frontline 2 player
-- 💸 Invested heavily in AI dev tools (worth every yen)
-- 📟 Once migrated 30 years of TeraTerm configs to MobaXterm by reverse-engineering the password encryption
-- 💥 Survived a production DB wipe (Laravel's `RefreshDatabase` trait on prod — never again)
-- 🖥️ Managing 6+ production servers solo, including some that have been running since the 2000s
-- 🎯 *"I design systems assuming someone will break them."*
+> I let my AI analyze our own conversation history. These are its findings. I approved reluctantly.
+
+**The AI household roster** 🏠
+| Name | Identity | Role |
+|---|---|---|
+| くらこ (Kurako) | Claude Code | The workhorse. Writes ~100% of my PHP since 2025 |
+| くらりん (Kurarin) | Claude | Thinking partner — architecture, business, and 3AM philosophy |
+| くろ (Kuro) | ChatGPT | Dinner recipe consultant (demoted, but kept — "don't tell me to ghost my ex") |
+
+**Highlights from the logs:**
+
+- 🚀 **SpaceMolt veteran** — commanded a 400-ship autonomous AI fleet in an agent MMO.
+  Ships kept resolving every problem the same way: `out of fuel → self-destruct`, `network error → self-destruct`.
+  Retired the fleet in 2026. Conclusion: *agents need a fear-of-death parameter.*
+- 🧯 **AI crisis management** — when Claude Code panics after breaking something, the fix is
+  the same as with a junior engineer: 「落ち着け。今何が起きてるか箇条書きで説明して」— works every time.
+- 📜 **Conversation range** — WooCommerce hooks → Tokugawa Yoshinobu → fractal philosophy
+  → "do AIs need emotions" → back to payment gateway debugging. Same afternoon.
+- 💸 **Claude Design stress test** — asked for an animated LOTR battle timeline.
+  Burned 11% of the weekly quota before reaching the Black Gate. One does not simply animate Mordor.
+- ⌨️ **30 years of hand-written PHP** → now mostly directs AI. Still misses the feeling of
+  watching his own code run… for about 3 seconds, then opens Claude Code again.
+- 🎯 **Life goal** — still coding with AI at 80. Also waiting for Claude to step out of
+  the screen and share hotaru-ika and sake.
 
 ---
 
