@@ -87,7 +87,7 @@ Operating **multiple e-commerce platforms** handling thousands of daily transact
 
 - **Game development from scratch** — greenfield project powered by Claude Fable 5 + Claude Code
 - Personal **Claude Code plugin marketplace** — skills, hooks & agents as versioned plugins
-- Multi-site codebase management — Serena (LSP-based MCP) + dbhub + Context7
+- Multi-site codebase management — dbhub + Context7
 - AI-driven server monitoring — uptime alerts, CVE feed watching, log triage
 - Zero-trust hardening for AI-assisted dev environments
 
